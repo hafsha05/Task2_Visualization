@@ -17,15 +17,18 @@ Steps Performed:
 5. Added insights and context for storytelling.
    
 Key Business Insights:
+
     * Sub-Saharan Africa shows the highest total revenue.
     * Fruits and Vegetables are the most profitable item types.
     * Online Sales outperform Offline Sales in revenue.
     * High-priority orders contribute the most to total profit.
     * Sales peak during specific months, suggesting seasonal patterns.
 Tools Used:
+
   * Power BI Desktop
   * 100 Sales Records Dataset
  Interview Questions and Answers:
+
   1. What is the importance of data visualization?
   It helps convert complex data into clear visuals, revealing patterns, trends, and insights for decision-making.
   2. When do you use a pie chart vs bar chart?
