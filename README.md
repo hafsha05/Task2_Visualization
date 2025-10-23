@@ -1,8 +1,8 @@
 # Task2_Visualization
 #Task 2: Data Visualization and Storytelling
 
-Objective:
-       *Create visualizations using Power BI that provide business insights from the 100 Sales Records dataset.
+## *Objective:*
+Create visualizations using Power BI that provide business insights from the 100 Sales Records dataset.
 Steps Performed:
 1. Loaded dataset (100 Sales Records.csv) into Power BI.
 2. Cleaned and formatted data (ensured correct data types).
@@ -29,7 +29,7 @@ Tools Used:
   * Power BI Desktop
   * 100 Sales Records Dataset
     
- Interview Questions and Answers:
+## *Interview Questions and Answers:*
 
   1. What is the importance of data visualization?
   It helps convert complex data into clear visuals, revealing patterns, trends, and insights for decision-making.
